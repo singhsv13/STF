@@ -100,7 +100,7 @@ li,
   height: 50%;
   width: 50%;
 }
-.button {
+/* .button {
   font-family: inherit;
   cursor: pointer;
   color: aliceblue;
@@ -119,6 +119,9 @@ li,
 .button:active {
   background-color: #99cd3296;
   color: #000000;
+} */
+.paybtn {
+  margin-top: 1rem;
 }
 /* ----------------       About     ---------------- */
 .about {
